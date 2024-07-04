@@ -1,0 +1,164 @@
+{
+  "Header": {
+    "title": "GARAGE DOOR REPAIR",
+    "paragraph": "Same-day service, 24/7 availability. Your garage, our priority."
+  },
+  "About": {
+    "paragraph": "\nAs a homeowner, it's crucial to ensure the safety and optimal functioning of your garage door. Even if it seems to open and close smoothly, there could be underlying issues that pose risks to you and your family. Regular inspection and maintenance are key to avoiding potential dangers. One common concern is the need for repair or replacement of certain components, which should be addressed promptly. While DIY solutions may seem tempting, using manual unlocking tools is not advisable according to factory standards, as it can lead to further damage and jeopardize safety.\n\n Our services provide same-day and 24/7 assistance, ensuring that your garage door concerns are addressed promptly and efficiently. Instead of relying on manual unlocking tools, consider our professionally installed automatic garage door opener for a secure and convenient access solution.",
+    "Why": [
+      "Expert Technicians",
+      "Prompt Service",
+      "Quality Workmanship",
+      "Transparent Pricing"
+    ],
+    "Why2": [
+      "Customer Satisfaction",
+      "Reliable Repairs",
+      "Safety Assurance",
+      "Trusted Experience"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Main door",
+      "largeImage": "img/gallery_1.jpeg",
+      "smallImage": "img/gallery_1.jpeg"
+    },
+    {
+      "title": "Two doors",
+      "largeImage": "img/gallery_5_7.jpg",
+      "smallImage": "img/gallery_5_7.jpg"
+    },
+    {
+      "title": "Two doors",
+      "largeImage": "img/gallery_4.jpeg",
+      "smallImage": "img/gallery_4.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "img": "img/services-garage-doors.webp",
+      "name": "GARAGE DOORS",
+      "text": "Premium Selection: Offering a diverse range of high-quality garage doors to enhance your home's aesthetics and functionality."
+    },
+    {
+      "icon": "fa fa-sliders",
+      "img": "img/services-garage-door-openers.webp",
+      "name": "OPENERS",
+      "text": "Innovative Technology: State-of-the-art garage door opener systems designed for seamless operation and convenience."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "img": "img/services-repair.jpeg",
+      "name": "REPAIR",
+      "text": "Prompt Service: Swift and efficient repair solutions to address any issues with your garage door, restoring functionality in no time."
+    },
+    {
+      "icon": "fa fa-database",
+      "img": "img/services-springs.jpeg",
+      "name": "SPRINGS",
+      "text": "Vital Components: Garage door springs play a crucial role in the smooth operation of your door, providing balance and support."
+    },
+    {
+      "icon": "fa fa-gavel",
+      "img": "img/services-installation.jpeg",
+      "name": "Installation",
+      "text": "Customized garage door installation services to match your specific preferences and architectural style."
+    },
+    {
+      "icon": "fa fa-refresh",
+      "img": "img/services-cable-replacment.jpeg",
+      "name": "Cable replacement",
+      "text": "Safety Assessment: Thorough inspection to identify any issues with your garage door cables, prioritizing safety."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Exceptional service! Prompt, professional, and reliable. Highly recommend for any garage door needs.\"",
+      "name": "Christopher Davis"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Outstanding workmanship! Our garage door was fixed swiftly and efficiently. Couldn't be happier with the results.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Transparent pricing and honest communication throughout the repair process. Definitely my go-to for any garage door issues.\"",
+      "name": "David Brown"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Impressed by their expertise and attention to detail. Our garage door now operates smoother than ever before.\"",
+      "name": "Sarah Williams"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Trustworthy company with a strong focus on safety. I feel confident knowing they handle all our garage door repairs.\"",
+      "name": "Michael Smith"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Top-notch service from start to finish. Their experienced team made the whole experience hassle-free. Would definitely use again!\"",
+      "name": "Emily Johnson"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Austin, Texas 78746",
+    "phone": "(737) 339-8686",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "far fa-garage",
+      "img": "img/DoorPic.jpeg",
+      "title": "Garage Doors",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "img": "img/annual.jpeg",
+      "title": "Maintenance",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "img": "img/repair.jpeg",
+      "title": "Repair",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "img": "img/installation.jpeg",
+      "title": "Installation",
+      "text": ""
+    }
+  ]
+}
